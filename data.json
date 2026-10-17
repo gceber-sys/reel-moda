@@ -1,0 +1,193 @@
+{
+ "noDefaults": true,
+ "products": {
+  "1": {
+   "n": "Saten Midi Elbise",
+   "c": "Elbise",
+   "p": 1490,
+   "d": "Akışkan saten dokusu, V yaka ve belde şık büzgü detayı.",
+   "s": {
+    "S": 5,
+    "M": 5,
+    "L": 5,
+    "XL": 5
+   },
+   "im": [],
+   "t": "dress",
+   "g": [
+    "#e9d5c0",
+    "#d2a98f"
+   ],
+   "f": "#7a3b3b"
+  },
+  "2": {
+   "n": "Keten Yazlık Elbise",
+   "c": "Elbise",
+   "p": 1190,
+   "d": "Nefes alan %100 keten, rahat kesim ve cepli tasarım.",
+   "s": {
+    "S": 5,
+    "M": 5,
+    "L": 5,
+    "XL": 5
+   },
+   "im": [],
+   "t": "dress",
+   "g": [
+    "#efe3cf",
+    "#d8c3a0"
+   ],
+   "f": "#f7f2ea"
+  },
+  "3": {
+   "n": "Kristal İşlemeli Abiye",
+   "c": "Abiye",
+   "p": 3490,
+   "d": "Özel gecelerin vazgeçilmezi, uzun kesim ve zarif sırt dekolteli.",
+   "s": {
+    "S": 5,
+    "M": 5,
+    "L": 5,
+    "XL": 5
+   },
+   "im": [],
+   "t": "gown",
+   "g": [
+    "#d9d0e3",
+    "#a89bbd"
+   ],
+   "f": "#2b2540"
+  },
+  "4": {
+   "n": "Pudra Tül Abiye",
+   "c": "Abiye",
+   "p": 2890,
+   "d": "Katmanlı tül etek, korse yapılı üst ve hafif parıltılı kumaş.",
+   "s": {
+    "S": 5,
+    "M": 5,
+    "L": 5,
+    "XL": 5
+   },
+   "im": [],
+   "t": "gown",
+   "g": [
+    "#f1dcd8",
+    "#dfb6b0"
+   ],
+   "f": "#fff6f1"
+  },
+  "5": {
+   "n": "Yün Kaban",
+   "c": "Dış Giyim",
+   "p": 3190,
+   "d": "Yün karışımlı, uzun kesim ve çift düğmeli klasik duruş.",
+   "s": {
+    "S": 5,
+    "M": 5,
+    "L": 5,
+    "XL": 5
+   },
+   "im": [],
+   "t": "coat",
+   "g": [
+    "#e6dccd",
+    "#bfa98b"
+   ],
+   "f": "#5a4632"
+  },
+  "6": {
+   "n": "Bej Trençkot",
+   "c": "Dış Giyim",
+   "p": 2390,
+   "d": "Su itici kumaş, kemerli ve mevsim geçişleri için ideal.",
+   "s": {
+    "S": 5,
+    "M": 5,
+    "L": 5,
+    "XL": 5
+   },
+   "im": [],
+   "t": "coat",
+   "g": [
+    "#eadfcc",
+    "#cbb48f"
+   ],
+   "f": "#c9ad82"
+  },
+  "7": {
+   "n": "Triko Kazak Takımı",
+   "c": "Günlük Şıklık",
+   "p": 1390,
+   "d": "Yumuşak dokulu triko, rahat ve şık bir günlük kombin.",
+   "s": {
+    "S": 5,
+    "M": 5,
+    "L": 5,
+    "XL": 5
+   },
+   "im": [],
+   "t": "top",
+   "g": [
+    "#ece4d8",
+    "#cdbfae"
+   ],
+   "f": "#8e7a68"
+  },
+  "8": {
+   "n": "Pileli Midi Etek",
+   "c": "Günlük Şıklık",
+   "p": 990,
+   "d": "Hareketli pileler, yüksek bel ve her üste yakışan sadelik.",
+   "s": {
+    "S": 5,
+    "M": 5,
+    "L": 5,
+    "XL": 5
+   },
+   "im": [],
+   "t": "top",
+   "g": [
+    "#e4ddd3",
+    "#b9a893"
+   ],
+   "f": "#3a3632"
+  }
+ },
+ "site": {
+  "brand": "Reel Moda",
+  "bar": "",
+  "eb": "SONBAHAR · KIŞ 2026",
+  "ht": "Sezonun\nFavorileri",
+  "hp": "Zarafeti sade çizgilerde arayanlar için özenle seçilmiş koleksiyon. Her gün, her an kendinize yakışan parçalar.",
+  "hb": "ALIŞVERİŞE BAŞLA",
+  "free": 750,
+  "ship": 49.9,
+  "cats": [
+   "Elbise",
+   "Abiye",
+   "Dış Giyim",
+   "Günlük Şıklık"
+  ],
+  "trust": [
+   {
+    "t": "Ücretsiz Kargo",
+    "d": ""
+   },
+   {
+    "t": "Güvenli Ödeme",
+    "d": "256-bit SSL korumalı"
+   },
+   {
+    "t": "Kolay İade",
+    "d": "30 gün içinde ücretsiz"
+   }
+  ],
+  "foot": "Zarafet, her günün içinde."
+ },
+ "store": {
+  "wa": "",
+  "mail": "",
+  "ig": ""
+ }
+}

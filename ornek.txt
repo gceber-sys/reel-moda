@@ -1,0 +1,2 @@
+Ürün fotoğraflarını bu klasöre yükleyin (ör. saten-elbise-1.jpg).
+Sonra data.json içinde ürünün "im" satırına ["img/saten-elbise-1.jpg"] yazın.
